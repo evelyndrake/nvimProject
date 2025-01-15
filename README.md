@@ -1,3 +1,3 @@
-#nvimProject
+# nvimProject
 
 test readme
